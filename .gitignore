@@ -1,0 +1,5 @@
+attendance.csv
+__pycache__/
+*.pyc
+dataset/*
+!dataset/.gitkeep
